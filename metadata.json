@@ -1,0 +1,6 @@
+{
+  "name": "TOEIC Master – Smart Learning System",
+  "description": "Nền tảng học TOEIC thông minh theo bản đồ 220 tình huống Part 3, 4, 6, 7 và giáo trình mở rộng Part 1, 2, tích hợp từ vựng theo ngữ cảnh, ôn tập lặp lại ngắt quãng SM-2 và gia sư AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

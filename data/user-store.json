@@ -1,0 +1,26 @@
+{
+  "user": {
+    "id": "USR-001",
+    "name": "Học viên TOEIC",
+    "role": "student",
+    "streakDays": 1,
+    "lastActiveDate": "2026-11-18",
+    "dailyStudyMinutes": 0,
+    "lastSituationId": "P3-01",
+    "studyHistoryDates": [
+      "2026-11-18"
+    ]
+  },
+  "situationProgress": {},
+  "reviewCards": {},
+  "quizAttempts": [],
+  "mistakes": [],
+  "customSituations": [],
+  "customQuestions": [],
+  "customVocab": [],
+  "settings": {
+    "audioSpeed": 1,
+    "dailyGoalSituations": 3,
+    "activeRoadmapWeek": 1
+  }
+}
